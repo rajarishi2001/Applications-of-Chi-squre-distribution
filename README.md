@@ -1,4 +1,4 @@
-EDA, Statistics & Machine Learning Projects
+EDA, STATISTICS & MACHINE LEARNING PROJECTS:
 
 This Repository comprises of Statistical Analytics and Machine Learning Projects with the Jupyter Notebook files.
 
