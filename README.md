@@ -9,3 +9,5 @@ This Repository comprises of Statistical Analytics and Machine Learning Projects
 3) Taxi Trip Fare Prediction [ClickHere] : https://github.com/rajarishi2001/Data-Science-Projects/blob/main/Taxi%20Trip%20Fare%20Prediction%20Challenge.ipynb
 
 4) Vehicle Loan Default Prediction [ClickHere] : https://github.com/rajarishi2001/Data-Science-Projects/blob/main/Vehicle%20Loan%20Default%20Prediction.ipynb
+
+5) Breast Cancer Classification [ClickHere] : https://github.com/rajarishi2001/Data-Science-Projects/blob/main/Breast%20Cancer%20classification.ipynb
